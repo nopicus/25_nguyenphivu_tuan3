@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "week03",
-    "slug": "week03",
+    "name": "19523231-nguyen-phi-vu",
+    "slug": "19523231-nguyen-phi-vu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#00CCF9"
       }
     },
     "web": {
